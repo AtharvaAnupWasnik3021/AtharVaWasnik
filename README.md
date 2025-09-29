@@ -1,8 +1,7 @@
 # Atharva-Anup-Wasnik
 
+## 🏅 LeetCode Progress
 
-## 🚀 LeetCode Stats
+![LeetCode Problems Solved](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=leetcode&label=LeetCode%20Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/AtharVaWasnik)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AtharVaWasnik?theme=dark&font=Baloo&ext=contest)
-
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=Problems%20Solved&query=solvedTotal&url=https://leetcode-stats-api.herokuapp.com/AtharVaWasnik)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AtharVaWasnik?theme=light&ext=heatmap)
